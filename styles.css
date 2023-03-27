@@ -11,34 +11,38 @@ background: #7B68E1;
 
 }
 
+.body {
+    background-color: rgb(166, 132, 197);
+}
+
 .logo { 
     position: fixed;
-width: 150px;
-height: 150px;
+width: 15%;
 top: 30px;
 left: 40px;
-border-radius: 100px;
+border-radius: 100%;
 }
 
 .photos {
-position: fixed;
-font-size: 28px;
-top: 60px;
-left: 300px;
-
+    position: fixed;
+font-size: 24px;
+top:60px;
+left: 30%;
+font-family: 'Roboto', sans-serif;
 }
 .history {
     position: fixed;
-    font-size: 28px;
-    top: 60px;
-    left: 380px;
+    font-size: 24px;
+    left: 45%;
+    top:60px;
+    font-family: 'Roboto', sans-serif;
     }
 
-.kva {
+/* .kva {
 width: 100%;
-height: 1800px;
+height: 3200px;
 background: rgb(166, 132, 197);
-} 
+}  */
 .kva2   {
     width: 100%;
     height: 200px;
@@ -47,7 +51,7 @@ background: rgb(166, 132, 197);
 
 .photo2 {
    
-width: 30%;
+width: 50%;
 }
 
 .kva p {
