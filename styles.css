@@ -17,23 +17,23 @@ background: #7B68E1;
 
 .logo { 
     position: fixed;
-width: 15%;
+width: 120px;
 top: 30px;
 left: 40px;
 border-radius: 100%;
 }
 
 .photos {
-    position: fixed;
+position: fixed;
 font-size: 24px;
 top:60px;
-left: 30%;
+left: 40%;
 font-family: 'Roboto', sans-serif;
 }
 .history {
     position: fixed;
     font-size: 24px;
-    left: 45%;
+    left: 55%;
     top:60px;
     font-family: 'Roboto', sans-serif;
     }
@@ -57,4 +57,9 @@ width: 50%;
 .kva p {
 font-size: 28px;
 font-family: 'Roboto', sans-serif;
+}
+
+.social img {
+width:100px;
+
 }
